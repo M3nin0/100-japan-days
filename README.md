@@ -11,6 +11,6 @@ Local para aprender mais palavras com o Maurício.
 | Português | Japonês |
 |-----------|---------|
 |  Olá, como vai ?       | こんにちは、元気？ - konnichiwa, genki? |
-|           |         |
+| Qual seu nome ?          |         |
 |           |         |
 |           |         |
