@@ -14,4 +14,4 @@ Local para aprender mais palavras com o Maurício.
 | Qual seu nome ?          | あなたの名前は何ですか？ - Anatano namaewa nanidesuka? |
 | O que está acontecendo ?          |         |
 | Olha isso          |         |
-|           |        |
+| O que é isso ?          |        |
