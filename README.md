@@ -12,6 +12,6 @@ Local para aprender mais palavras com o Maurício.
 |-----------|---------|
 |  Olá, como vai ?       | こんにちは、元気？ - konnichiwa, genki? |
 | Qual seu nome ?          | あなたの名前は何ですか？ - Anatano namaewa nanidesuka? |
-| O que está acontecendo ?          |         |
-| Olha isso          |         |
-| O que é isso ?          |        |
+| O que está acontecendo ?          | 何が起こっているの？ - Naniga okotte iruno? |
+| Olha isso          | これを見てください。 - Korewo mite kudasai. |
+| O que é isso ?          | それは何ですか？ - Korewa nandesuka? |
