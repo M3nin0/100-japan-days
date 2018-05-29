@@ -16,4 +16,4 @@ Local para aprender mais palavras com o Maurício.
 | Olha isso          | これを見てください。 - Korewo mite kudasai. |
 | O que é isso ?          | これは何ですか? - Korewa nandesuka? |
 | Que cheiro é esse ?     | この匂いは何ですか? - Kono nioiwa nanidesuka? |
-| Vai ter aula ?          | 授業ありますか? - Kyou jyugyou arimasuka? |
+| Vai ter aula ?          | 授業ありますか? - Jyugyou arimasuka? |
