@@ -17,3 +17,4 @@ Local para aprender mais palavras com o Maurício.
 | O que é isso ?          | これは何ですか? - Korewa nandesuka? |
 | Que cheiro é esse ?     | この匂いは何ですか? - Kono nioiwa nanidesuka? |
 | Vai ter aula ?          | 授業ありますか? - Jyugyou arimasuka? |
+|Não, não vai ter aula...||
