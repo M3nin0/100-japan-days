@@ -6,7 +6,7 @@ Para aprender mais.
 
 Este repositório foi criado para que eu tenha uma proximidade maior com a lingua japonesa. E o Sensei Mauricio, me ajuda demonstrando a forma com que os nativos falam, e não como o tradutor diz.
 
-## Palavras legais
+## 法的言葉 :barber:
 
 Local para aprender mais palavras com o Maurício.  
 日本語を学ぶ場所! - nihongowo manabu basho!  
