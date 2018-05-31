@@ -1,6 +1,10 @@
-# 100-japan-days
+# 日本語の百日間 :japanese_castle:
+
 Para aprender mais.
 
+## 客観的 :japanese_ogre:
+
+Este repositório foi criado para que eu tenha uma proximidade maior com a lingua japonesa. E o Sensei Mauricio, me ajuda demonstrando a forma com que os nativos falam, e não como o tradutor diz.
 
 ## Palavras legais
 
@@ -19,3 +23,4 @@ Local para aprender mais palavras com o Maurício.
 | Vai ter aula ?          | 授業ありますか? - Jyugyou arimasuka? |
 |Não, não vai ter aula...| いいえ、授業ありません. - Iie, jyugyou arimasen... |
 | 100 dias de japonês    | 日本語の百日間 - Nihongono hyakunitikan |
+| Hoje aprendi coisas legais| |
