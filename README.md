@@ -23,4 +23,4 @@ Local para aprender mais palavras com o Maurício.
 | Vai ter aula ?          | 授業ありますか? - Jyugyou arimasuka? |
 |Não, não vai ter aula...| いいえ、授業ありません. - Iie, jyugyou arimasen... |
 | 100 dias de japonês    | 日本語の百日間 - Nihongono hyakunitikan |
-| Hoje aprendi coisas legais| |
+| Hoje aprendi coisas legais| 今日凄い事学びました. - kyou "sugoi" koto manabimashita. |
