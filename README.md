@@ -25,3 +25,4 @@ Local para aprender mais palavras com o Maurício.
 | 100 dias de japonês    | 日本語の百日間 - Nihongono hyakunitikan |
 | Hoje aprendi coisas legais| 今日凄い事学びました. - kyou "sugoi" koto manabimashita. |
 | Hoje foi um dia legal | |
+| Estou triste| |
