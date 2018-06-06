@@ -26,3 +26,4 @@ Local para aprender mais palavras com o Maurício.
 | Hoje aprendi coisas legais | 今日凄い事学びました. - Kyou "sugoi" koto manabimashita. |
 | Hoje foi um dia legal | 今日は楽しい一日でした. - Kyou wa tanoshii itiniti deshita. |
 | Estou triste | 私わ悲しいです. - Watashi wa kanashii desu. |
+| Isso é bobagem | | 
