@@ -27,3 +27,5 @@ Local para aprender mais palavras com o Maurício.
 | Hoje foi um dia legal | 今日は楽しい一日でした. - Kyou wa tanoshii itiniti deshita. |
 | Estou triste | 私わ悲しいです. - Watashi wa kanashii desu. |
 | Isso é bobagem | これわ愚かです - Kore wa oroka desu | 
+| Que semana estranha | |
+| Parece bobo | |
