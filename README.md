@@ -30,3 +30,4 @@ Local para aprender mais palavras com o Maurício.
 | Que semana estranha | 変な一週間 - Henna isshuukan |
 | Parece bobo | 馬鹿みたい - Baka mitai |
 | Vamos tomar café? | コーヒ飲みましょう - Koohi nomimashou |
+| Vamos terminar isso | |
