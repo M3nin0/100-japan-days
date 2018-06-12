@@ -12,7 +12,7 @@ Local para aprender mais palavras com o Maurício.
 日本語を学ぶ場所! - nihongowo manabu basho!  
 マウリシオ先生 - Mauricio sensei.
 
-| Português | Japonês |
+| Português - ポルトガル語 | Japonês - 日本語 |
 |-----------|---------|
 | Olá, como vai ? | こんにちは、元気? - konnitiwa, genki? |
 | Qual seu nome ? | あなたの名前は何ですか? - Anata no namae wa nanidesuka? |
