@@ -31,4 +31,4 @@ Local para aprender mais palavras com o Maurício.
 | Parece bobo | 馬鹿みたい - Baka mitai |
 | Vamos tomar café? | コーヒ飲みましょう - Koohi nomimashou |
 | Vamos terminar isso | これを終わらせましょう - Kore wo owarasemashou |
-| Vou sair |　出かけます - Dekakemasu | 
+| Vou sair | 出かけます - Dekakemasu | 
