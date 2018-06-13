@@ -32,3 +32,4 @@ Local para aprender mais palavras com o Maurício.
 | Vamos tomar café? | コーヒ飲みましょう - Koohi nomimashou |
 | Vamos terminar isso | これを終わらせましょう - Kore wo owarasemashou |
 | Vou sair | 出かけます - Dekakemasu | 
+| Acabou! | |
